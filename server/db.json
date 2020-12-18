@@ -9,6 +9,11 @@
       "id": "2",
       "reminder": "Do Homework",
       "time": "6:20pm"
+    },
+    {
+      "id": "3",
+      "reminder": "go for shoping",
+      "time": "10am"
     }
   ]
 }
