@@ -1,0 +1,24 @@
+{
+    "reminder": [
+        {
+            "id": "1",
+            "reminder": "Have some Rest",
+            "time": "5:20pm"
+        },
+        {
+            "id": "2",
+            "reminder": "Do Homework",
+            "time": "6:20pm"
+        },
+        {
+            "id": "3",
+            "reminder": "Write letter",
+            "time": "7:20pm"
+        },
+        {
+            "id": "4",
+            "reminder": "Play ame",
+            "time": "8:20pm"
+        }
+    ]
+}
